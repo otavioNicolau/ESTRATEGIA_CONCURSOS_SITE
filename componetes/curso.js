@@ -1,0 +1,22 @@
+import {
+    Button
+} from 'react-bootstrap';
+import Link from 'next/link';
+
+export default function Curso({ curso }) {
+   
+    return (
+        <>
+            <Button variant="link">
+                <Link href={`/curso/${curso.id}`}>
+                    <>
+                        {curso.nome}  {' ( '}
+                        {curso.total_aulas}
+                        {curso.total_aulas > 1 ? <a>Aulas</a> : <a>Aula</a>} {' ) '}
+                    </>
+                </Link>
+            </Button>
+            <hr />
+        </>
+    )
+}
