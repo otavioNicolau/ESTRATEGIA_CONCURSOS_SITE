@@ -1,5 +1,5 @@
-// pages/api/config.js
-import config from '../../prf';
+
+import config from '../../edital_prf.js';
 
 export default function handler(req, res) {
   res.status(200).json({ EDITAL: config.EDITAL });
