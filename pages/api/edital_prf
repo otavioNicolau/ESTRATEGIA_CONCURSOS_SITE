@@ -1,6 +1,6 @@
 
-import config from '../../edital_prf.js';
+import edital from '../../edital_prf.js';
 
 export default function handler(req, res) {
-  res.status(200).json({ EDITAL: config.EDITAL });
+  res.status(200).json({ EDITAL: edital.edital_prf });
 }
