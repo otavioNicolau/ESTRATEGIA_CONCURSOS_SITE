@@ -6,7 +6,7 @@ const edital_prf =
       "materia": "PORTUGUÊS",
       "id": 101,
       "peso": "0",
-      "nome": "1 Compreensão e interpretação de textos de gêneros variados."
+      "nome": "1 Compreensão e interpretação de textos de gêneros variados.."
     },
     {
       "materia": "PORTUGUÊS",
