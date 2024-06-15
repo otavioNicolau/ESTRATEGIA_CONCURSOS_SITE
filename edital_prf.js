@@ -13,28 +13,28 @@ const edital_prf =
       "materia": "PORTUGUÊS",
       "bloco": "I",
       "id": 102,
-      "peso": "0",
+      "peso": "1",
       "nome": "2 Reconhecimento de tipos e gêneros textuais."
     },
     {
       "materia": "PORTUGUÊS",
       "bloco": "I",
       "id": 103,
-      "peso": "0",
+      "peso": "2",
       "nome": "3 Domínio da ortografia oficial."
     },
     {
       "materia": "PORTUGUÊS",
       "bloco": "I",
       "id": 104,
-      "peso": "0",
+      "peso": "3",
       "nome": "4 Domínio dos mecanismos de coesão textual."
     },
     {
       "materia": "PORTUGUÊS",
       "bloco": "I",
       "id": 105,
-      "peso": "0",
+      "peso": "4",
       "nome": "4.1 Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual."
     },
     {
