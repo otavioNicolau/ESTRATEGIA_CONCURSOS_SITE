@@ -31,7 +31,7 @@ const apostilas =
       "peso": "9999999996",
     },
     {
-      "nome": "05 - Manual Brasileiro de Fiscalização de Trânsito",
+      "nome": "05 - MBF de Trânsito",
       "id_aula": 9999999995,
       "url": "https://legislacaofacilitada.com.br/?download_file=27314&order=wc_order_Zn2LeK5lFWeEn&email=day.nicollau%40gmail.com&key=443a99bf-1d14-4de4-b2c6-0d2c1f7938d5",
       "tipo": 'apostila',
@@ -73,18 +73,18 @@ const apostilas =
       "peso": "9999999990",
     },
     {
-      "nome": "11 - 130 Questões - Direito Administrativo",
+      "nome": "11 - Questões- Administrativo",
       "id_aula": 9999999989,
       "url": "https://legislacaofacilitada.com.br/?download_file=27314&order=wc_order_Zn2LeK5lFWeEn&email=day.nicollau%40gmail.com&key=9b0f023e-0ec2-431d-93c3-0547dc9f6295",
       "tipo": 'apostila',
-      "peso": "9999999990",
+      "peso": "9999999989",
     },
     {
-      "nome": "12 - 130 Questões - Direito Constitucional",
+      "nome": "12 - Questões- Constitucional",
       "id_aula": 9999999988,
       "url": "https://legislacaofacilitada.com.br/?download_file=27314&order=wc_order_Zn2LeK5lFWeEn&email=day.nicollau%40gmail.com&key=f3201673-4241-47cb-85d8-bdf00dd7e36b",
       "tipo": 'apostila',
-      "peso": "9999999990",
+      "peso": "9999999988",
     }
   ]
 };
