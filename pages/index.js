@@ -46,7 +46,8 @@ export default function Home() {
             </div>
           ))}
         </Accordion> */}
-        <span className="visually-hidden">DESATIVADO</span>
+
+        <span >DESATIVADO</span>
 
 
       </Container>
