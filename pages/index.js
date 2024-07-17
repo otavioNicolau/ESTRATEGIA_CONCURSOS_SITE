@@ -39,15 +39,15 @@ export default function Home() {
 
         {!data ? <Loader /> : <></>}
 
-        {/* <Accordion>
+        <Accordion>
           {data && data.concursos.map((concurso) => (
             <div key={concurso.id}>
               <Concurso concurso={concurso} />
             </div>
           ))}
-        </Accordion> */}
-
-        <span >DESATIVADO</span>
+        </Accordion>
+{/* 
+        <span >DESATIVADO</span> */}
 
 
       </Container>
