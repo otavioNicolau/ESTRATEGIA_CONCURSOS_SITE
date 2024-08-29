@@ -85,7 +85,66 @@ const apostilas =
       "url": "https://legislacaofacilitada.com.br/?download_file=27314&order=wc_order_Zn2LeK5lFWeEn&email=day.nicollau%40gmail.com&key=f3201673-4241-47cb-85d8-bdf00dd7e36b",
       "tipo": 'apostila',
       "peso": "9999999988",
+    },
+
+
+    {
+      "nome": "13 - Código Penal",
+      "id_aula": 100,
+      "url": "public/apostilas/11 - Código Penal.pdf",
+      "tipo": 'apostila',
+      "peso": "100",
+    },
+    {
+      "nome": "13 - Constituição Federal de 1988",
+      "id_aula": 101,
+      "url": "public/apostilas/02 - Constituição Federal de 1988.pdf",
+      "tipo": 'apostila',
+      "peso": "101",
+    },
+    {
+      "nome": "14 - Estatuto da Criança e do Adolescente",
+      "id_aula": 102,
+      "url": "public/apostilas/03 - Estatuto da Criança e do Adolescente.pdf",
+      "tipo": 'apostila',
+      "peso": "102",
+    },
+    {
+      "nome": "15 - Estatuto do Idoso",
+      "id_aula": 103,
+      "url": "public/apostilas/04 - Estatuto do Idoso.pdf",
+      "tipo": 'apostila',
+      "peso": "103",
+    },
+    {
+      "nome": "16 - Estatuto Geral das Guardas Municipais - grancursos.pdf",
+      "id_aula": 104,
+      "url": "public/apostilas/05 - Estatuto Geral das Guardas Municipais - grancursos.pdf",
+      "tipo": 'apostila',
+      "peso": "104",
+    },
+    {
+      "nome": "17 - Estatuto Geral das Guardas Municipais.pdf",
+      "id_aula": 105,
+      "url": "public/apostilas/06 - Estatuto Geral das Guardas Municipais.pdf",
+      "tipo": 'apostila',
+      "peso": "105",
+    },
+    {
+      "nome": "18 - Lei Federal nº 9.605-1998.pdf",
+      "id_aula": 106,
+      "url": "public/apostilas/07 - Lei Federal nº 9.605-1998.pdf",
+      "tipo": 'apostila',
+      "peso": "106",
+    },
+    {
+      "nome": "19 - Lei Maria da Penha.pdf",
+      "id_aula": 107,
+      "url": "public/apostilas/08 - Lei Maria da Penha.pdf",
+      "tipo": 'apostila',
+      "peso": "107",
     }
+
   ]
 };
 
