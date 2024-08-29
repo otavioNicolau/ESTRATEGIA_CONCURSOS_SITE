@@ -101,7 +101,7 @@ const apostilas =
       "peso": "101",
     },
     {
-      "nome": "15 - Estatuto da Criança e do Adolescente",
+      "nome": "15 - Estatuto Criança Adolescente",
       "id_aula": 102,
       "url": "https://teal-crostata-aea03c.netlify.app/apostilas/03-EstatutodaCriancaedoAdolescente.pdf",
       "tipo": 'apostila',
