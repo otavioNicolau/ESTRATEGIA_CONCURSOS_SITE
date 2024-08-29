@@ -129,18 +129,11 @@ const apostilas =
       "peso": "105",
     },
     {
-      "nome": "19 - Lei Federal nº 9.605-1998",
+      "nome": "19 - Lei Maria da Penha",
       "id_aula": 106,
-      "url": "https://teal-crostata-aea03c.netlify.app/apostilas/07-LeiFederaln9.605-1998.pdf",
-      "tipo": 'apostila',
-      "peso": "106",
-    },
-    {
-      "nome": "20 - Lei Maria da Penha",
-      "id_aula": 107,
       "url": "https://teal-crostata-aea03c.netlify.app/apostilas/08-LeiMariadaPenha.pdf",
       "tipo": 'apostila',
-      "peso": "107",
+      "peso": "106",
     }
 
   ]
